@@ -1,7 +1,7 @@
 /* styles.css */
 
 * {
-	font-family: Arial, Helvitca, sans-serif;
+	font-family: "Neuton", serif;
 }
 
 body {
@@ -9,5 +9,5 @@ body {
 }
 
 h1 {
-  font-family: Montserrat, san-serif;
+  font-family: "Montserrat", san-serif;
 }
