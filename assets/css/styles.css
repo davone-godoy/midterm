@@ -1,2 +1,13 @@
 /* styles.css */
 
+* {
+	font-family: Arial, Helvitca, sans-serif;
+}
+
+body {
+  background-color: antique-white;
+}
+
+h1 {
+  font-family: Montserrat, san-serif;
+}
