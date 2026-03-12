@@ -3,10 +3,16 @@
 }
 
 body {
-  background-color: antique-white;
+  background-color: #FAEBD7;
 }
 
 h1 {
   	font-family: "Montserrat", san-serif;
 	color: #2F4F4F;
 }
+
+h2 {
+	font-family: "Montserrat", san-serif;
+	color: #2F4F4F;
+}
+	
